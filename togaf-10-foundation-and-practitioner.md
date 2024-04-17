@@ -59,3 +59,32 @@
 </tr>
 </tbody>
 </table>
+
+<h3 class="code-line" data-line-start=36 data-line-end=37 ><a id="The_Concepts_36"></a>The Concepts</h3>
+<p class="has-line-data" data-line-start="37" data-line-end="38">In order to understand TOGAF concepts, We should view as a big picture and baseline for further learning, below are the points covered in this section:</p>
+<ul>
+<li class="has-line-data" data-line-start="38" data-line-end="39">What is Enterprise?</li>
+<li class="has-line-data" data-line-start="39" data-line-end="40">What is the purpose and benefit Enterprise Architecture?</li>
+<li class="has-line-data" data-line-start="40" data-line-end="41">What is TOGAF standart?</li>
+<li class="has-line-data" data-line-start="41" data-line-end="42">What are Archicture Domains?</li>
+<li class="has-line-data" data-line-start="42" data-line-end="43">What is Architecture Abstraction?</li>
+<li class="has-line-data" data-line-start="43" data-line-end="44">What is Enterprise Continuum?</li>
+<li class="has-line-data" data-line-start="44" data-line-end="45">What is Architecture Repository?</li>
+<li class="has-line-data" data-line-start="45" data-line-end="46">What are Content Framework and Enterprise Metamodel?</li>
+<li class="has-line-data" data-line-start="46" data-line-end="47">What is Architecture Capability?</li>
+<li class="has-line-data" data-line-start="47" data-line-end="48">What is Risk Management?</li>
+<li class="has-line-data" data-line-start="48" data-line-end="50">What is Gap Analysis?</li>
+</ul>
+<h4 class="code-line" data-line-start=50 data-line-end=51 ><a id="Enterprise_50"></a>Enterprise</h4>
+<blockquote>
+<p class="has-line-data" data-line-start="51" data-line-end="52">An Enterprise could be any collection of organization shares the common goals, including business units, suppliers, partners and customers.</p>
+</blockquote>
+<p class="has-line-data" data-line-start="53" data-line-end="54">The Enterprise could be:</p>
+<ul>
+<li class="has-line-data" data-line-start="54" data-line-end="55">A Corporation or a divison or a team.</li>
+<li class="has-line-data" data-line-start="55" data-line-end="56">A Government or Government department.</li>
+<li class="has-line-data" data-line-start="56" data-line-end="57">Partnerships and Alliances.</li>
+<li class="has-line-data" data-line-start="57" data-line-end="58">Group of Countries.</li>
+<li class="has-line-data" data-line-start="58" data-line-end="60">Geographically distant organization as a team.</li>
+</ul>
+<p class="has-line-data" data-line-start="60" data-line-end="61">And Enterprise may have multiple enterprises with independent Enterprise Architecture and a framework supposed to be used as helper to standardized solutions named as Archictecture Repository to increase reusable business model, information, data dan designs.</p>
