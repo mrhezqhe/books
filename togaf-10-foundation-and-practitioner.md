@@ -88,3 +88,28 @@
 <li class="has-line-data" data-line-start="58" data-line-end="60">Geographically distant organization as a team.</li>
 </ul>
 <p class="has-line-data" data-line-start="60" data-line-end="61">And Enterprise may have multiple enterprises with independent Enterprise Architecture and a framework supposed to be used as helper to standardized solutions named as Archictecture Repository to increase reusable business model, information, data dan designs.</p>
+
+<h4 class="code-line" data-line-start=62 data-line-end=63 ><a id="Enterprise_Architecture_62"></a>Enterprise Architecture</h4>
+<blockquote>
+<p class="has-line-data" data-line-start="63" data-line-end="64">It is a conceptual blueprint that defines the structure and operation of an organization. Enterprise Architecture is to determine how an organization can most effectively achieve its current and future objectives. [source: <a href="http://searchcio.com">searchcio.com</a>]</p>
+</blockquote>
+<h4 class="code-line" data-line-start=65 data-line-end=66 ><a id="The_Purpose_65"></a>The Purpose</h4>
+<p class="has-line-data" data-line-start="66" data-line-end="67">The purpose of Enterprise Architecture as follows:</p>
+<ul>
+<li class="has-line-data" data-line-start="67" data-line-end="68">To streamline, integrate processes across the enterprise.</li>
+<li class="has-line-data" data-line-start="68" data-line-end="69">To facilitate governance, risk management and opportunities effectively.</li>
+<li class="has-line-data" data-line-start="69" data-line-end="70">To provide a change framework to support business strategy and value aligned with organization’s view.</li>
+<li class="has-line-data" data-line-start="70" data-line-end="71">To balance between business transformation and operational efficiency.</li>
+<li class="has-line-data" data-line-start="71" data-line-end="72">To create a space for innovation and build competitive advantage.</li>
+<li class="has-line-data" data-line-start="72" data-line-end="73">To harmonize strategies and synergies.</li>
+<li class="has-line-data" data-line-start="73" data-line-end="74">As governance for change activity and manage change to keep on track within designated path.</li>
+</ul>
+<h4 class="code-line" data-line-start=74 data-line-end=75 ><a id="The_Benefits_74"></a>The Benefits</h4>
+<p class="has-line-data" data-line-start="75" data-line-end="76">The benefits of Enterprise Architecture as follows:</p>
+<ul>
+<li class="has-line-data" data-line-start="76" data-line-end="77">Improve decision-making, because it support enterprise agility and quick response.</li>
+<li class="has-line-data" data-line-start="77" data-line-end="78">Increase shared resources by lowering operational cost with capabilities shared accross the organization.</li>
+<li class="has-line-data" data-line-start="78" data-line-end="79">Effective and Efficient digital transformation and operation by harmonize enterprise components</li>
+<li class="has-line-data" data-line-start="79" data-line-end="80">Improve ROI, because it will reduce complexity.</li>
+<li class="has-line-data" data-line-start="80" data-line-end="82">Accelerate procurement process by simplify buying decisions.</li>
+</ul>
