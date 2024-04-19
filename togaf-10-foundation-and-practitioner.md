@@ -149,3 +149,33 @@ Initial contact with Enterprise should collect information as many as possible a
 <li class="has-line-data" data-line-start="110" data-line-end="112">With what assets shall you implement this structure?</li>
 </ul>
 <p class="has-line-data" data-line-start="112" data-line-end="113">and divided into 4 level of abstraction which are Contextual, Conceptual, Logical, Physical.</p>
+
+<li class="has-line-data" data-line-start="113" data-line-end="114">Contextual is to understand operational environment and context of architecture planning and execution and understand why, scope, goals, drivers and objectives behind enterprise architecture work.</li>
+<li class="has-line-data" data-line-start="114" data-line-end="115">Conceptual is understand requirement breakdown and problem understanding, provides answer for meeting requirements.</li>
+<li class="has-line-data" data-line-start="115" data-line-end="116">Logical to identifies components required for conceptual services and discover architecture independent organization and structure</li>
+<li class="has-line-data" data-line-start="116" data-line-end="118">Physical to understand manage allocation and implementation of physical components to meet identified logical components, also identifies physical components that can make the logical-level components a reality.</li>
+</ul>
+<h3 class="code-line" data-line-start=118 data-line-end=119 ><a id="Enterprise_Continuum_118"></a>Enterprise Continuum</h3>
+<p class="has-line-data" data-line-start="119" data-line-end="120">It is provides a classification for architecture and solution artifacts, articulate about perspective Enterprise Architecture design, serves as vital tool for effective communication and comprehension. given context to leverage, specializing architecture assets to support individual organization unique needs.</p>
+<p class="has-line-data" data-line-start="121" data-line-end="122">Below are the ideas behind Enterprise Continuum:</p>
+<ul>
+<li class="has-line-data" data-line-start="122" data-line-end="123">Re-use, To arrange reusable architecture artifacts and solution assets, maximizing opportunities for investment in Enterprise Architecture</li>
+<li class="has-line-data" data-line-start="123" data-line-end="125">Communication, Aids communication and understanding, both within individual enterprise and between customer enterprises and vendor organizations.</li>
+</ul>
+<h3 class="code-line" data-line-start=125 data-line-end=126 ><a id="Architecture_Repository_125"></a>Architecture Repository</h3>
+<p class="has-line-data" data-line-start="126" data-line-end="127">Enterprise Architecture will product vast amount of data related to organization linked to architecture artifact, this is should manage and re-use wisely.</p>
+<p class="has-line-data" data-line-start="128" data-line-end="129">Architecture repository includes:</p>
+<ul>
+<li class="has-line-data" data-line-start="129" data-line-end="130">Architecture metamodel, it cover how to use an architecture framework to fit the organization</li>
+<li class="has-line-data" data-line-start="130" data-line-end="131">Architecture capability, it cover rules and processes for managing the architecture repository</li>
+<li class="has-line-data" data-line-start="131" data-line-end="132">Architecture landscape, it cover all the assets the enterprise utilizes or intends to use across various timeframes</li>
+<li class="has-line-data" data-line-start="132" data-line-end="133">Standard library, collection of standards that new architecture need to adhere such as Industry standards, products from suppliers and services used within organization</li>
+<li class="has-line-data" data-line-start="133" data-line-end="134">Reference library, it will store guidelines, templates and patterns.</li>
+<li class="has-line-data" data-line-start="134" data-line-end="135">Governance repository, it records all the governance activities</li>
+<li class="has-line-data" data-line-start="135" data-line-end="136">Architecture requirement repository, it will store all the approved architecture requirements.</li>
+<li class="has-line-data" data-line-start="136" data-line-end="138">Solution landspcae, it covers archictural depiction of planned or deployed solution building blocks (SBBs) that support architecture landscape.</li>
+</ul>
+<p class="has-line-data" data-line-start="138" data-line-end="139">In general Architecture Repository is a component of the larger Enterprise Repository and connecting archictural assets with other components (Design, Deployment, Service Management)</p>
+<p class="has-line-data" data-line-start="140" data-line-end="141">As best practices to maintainable Enterprise Repository is to reduce unnecessary information without skipping tasks, it should address all stakeholders concern and most likely prioritize stakeholder management but often overlook non-key stakeholders.</p>
+<h3 class="code-line" data-line-start=142 data-line-end=143 ><a id="Content_Framework_and_Enterprise_Metamodel_142"></a>Content Framework and Enterprise Metamodel</h3>
+<p class="has-line-data" data-line-start="143" data-line-end="144">Defining a formal structure and provide guidance for organization to implement their architecture.</p>
