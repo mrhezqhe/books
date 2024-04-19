@@ -113,3 +113,39 @@
 <li class="has-line-data" data-line-start="79" data-line-end="80">Improve ROI, because it will reduce complexity.</li>
 <li class="has-line-data" data-line-start="80" data-line-end="82">Accelerate procurement process by simplify buying decisions.</li>
 </ul>
+
+<h3 class="code-line" data-line-start=82 data-line-end=83 ><a id="Why_a_Framework_82"></a>Why a Framework?</h3>
+<ul>
+<li class="has-line-data" data-line-start="83" data-line-end="84">Create a standarization and lower risk archictecture development process</li>
+<li class="has-line-data" data-line-start="84" data-line-end="85">Using best practices, adding value and offer solution to address business needs</li>
+<li class="has-line-data" data-line-start="85" data-line-end="87">Create a consistent Enterprise Architecture</li>
+</ul>
+<h5 class="code-line" data-line-start=87 data-line-end=88 ><a id="TOGAF_Library_includes_87"></a>TOGAF Library includes:</h5>
+<ul>
+<li class="has-line-data" data-line-start="88" data-line-end="89">Concept and Introduction, this cover baseline and introductory TOGAF Framework</li>
+<li class="has-line-data" data-line-start="89" data-line-end="90">Architecture Development Method (ADM), this will cover a method of progressively creating Enterprise Architecture through iterations</li>
+<li class="has-line-data" data-line-start="90" data-line-end="91">ADM Techniques, this will cover method for applying TOGAF approach and ADM</li>
+<li class="has-line-data" data-line-start="91" data-line-end="92">Applying the ADM, this will cover guidelines for adapting the TOGAF ADM</li>
+<li class="has-line-data" data-line-start="92" data-line-end="93">Architecture Content, this will cover content framework, structured metamodel for architectural artifacts, reusable Architecture Building Blocks (ABBs) and Architecture deliverables.</li>
+<li class="has-line-data" data-line-start="93" data-line-end="94">Enterprise Architecture Capability and Governance, this will cover organization, processes, skills, roles and responsibilities and governance framework</li>
+<li class="has-line-data" data-line-start="94" data-line-end="96">TOGAF series guides, this will cover linked topic that will increase understanding about TOGAF perpsective.</li>
+</ul>
+<h3 class="code-line" data-line-start=96 data-line-end=97 ><a id="Architecture_Domains_96"></a>Architecture Domains</h3>
+<p class="has-line-data" data-line-start="97" data-line-end="98">There are four domain architecture as subset from Enterprise Architecture</p>
+<ul>
+<li class="has-line-data" data-line-start="98" data-line-end="99">Business Architecture, it includes business strategy, governance, organization and key business processes</li>
+<li class="has-line-data" data-line-start="99" data-line-end="100">Data Architecture, it includes structure organization logical and physical data assets and data management resources.</li>
+<li class="has-line-data" data-line-start="100" data-line-end="101">Application Architecture, it includes blueprint for deploying individual applications and their interactions with core business processes</li>
+<li class="has-line-data" data-line-start="101" data-line-end="102">Technology Architecture, it includes digital architecture and outlines the logical software and hardware infrastructure capabilities for service deployment</li>
+<li class="has-line-data" data-line-start="102" data-line-end="104">Combined of Business, Data, Application and Technology domain (Information Architecture, Risk and Security Architecture, Digital Architecture)</li>
+</ul>
+<h3 class="code-line" data-line-start=104 data-line-end=105 ><a id="Architecture_Abstractions_104"></a>Architecture Abstractions</h3>
+<p class="has-line-data" data-line-start="105" data-line-end="107">It provides techniques of dividing problem area into smaller and more manageable segments.<br>
+Initial contact with Enterprise should collect information as many as possible and answer the following questions:</p>
+<ul>
+<li class="has-line-data" data-line-start="107" data-line-end="108">Why is the architecture needed?</li>
+<li class="has-line-data" data-line-start="108" data-line-end="109">What functionality and other requirement need to be met by the architecture?</li>
+<li class="has-line-data" data-line-start="109" data-line-end="110">How do you structure the functionality?</li>
+<li class="has-line-data" data-line-start="110" data-line-end="112">With what assets shall you implement this structure?</li>
+</ul>
+<p class="has-line-data" data-line-start="112" data-line-end="113">and divided into 4 level of abstraction which are Contextual, Conceptual, Logical, Physical.</p>
